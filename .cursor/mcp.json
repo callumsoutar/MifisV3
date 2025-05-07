@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "supabase": {
+      "command": "mcp-server-supabase --access-token sbp_v0_9bffa6420e0c67c98b21d3c230a29e88ca0ae0df"
+    }
+  }
+} 
